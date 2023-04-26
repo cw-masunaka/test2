@@ -1,4 +1,4 @@
-name: Git Tag
+name: 'Deploy'
 
 on:
   pull_request:
