@@ -1,7 +1,4 @@
-name: Deploy
-
-on:
-  pull_request:
+name: deploy
 
 jobs:
   main:
